@@ -6,3 +6,8 @@ Este repositório foi criado como primeira experiência do curso de **_Git_** e 
 Adicionei essa linha direto do site, conforme necessidade do projeto. _QUE COISA IMPRESSIONATE_!
 
 Exercitando as **Issues** e a **Markdown**
+
+Lista de tarefas:
+- [X] Criar o site principal
+- [] Criar site do cliente
+- [X] Finalizar o curso de Git 
