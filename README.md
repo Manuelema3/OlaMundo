@@ -5,4 +5,4 @@ Este repositório foi criado como primeira experiência do curso de Git ao vivo
 
 Adicionei essa linha direto do site, conforme necessidade do projeto. QUE COISA IMPRESSIONATE!
 
-Essa linha foi adicionada de forma exemplare a exwercitar o Markdown
+Exercitando as Issues e a Markdown
