@@ -11,3 +11,6 @@ Lista de tarefas:
 - [X] Criar o site principal
 - [] Criar site do cliente
 - [X] Finalizar o curso de Git 
+
+Principiante:
+[Acesse meu GitHub](https://Manuelema3.github.io)
