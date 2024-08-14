@@ -14,4 +14,4 @@ Lista de tarefas:
 
 Estou começando
 
-[Acesse meu GitHub](https://Manuelema3.github.io)
+[Acesse meu GitHub](https://Manuelema3.github.com)
