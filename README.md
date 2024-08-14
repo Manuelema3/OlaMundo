@@ -16,6 +16,4 @@ Estou começando
 
 [Acesse meu GitHub](https://github.com/Manuelema3)
 
-Número| Nome| Nota|
---- |---| --- |
-1 |Manuel |8,60| 
+
